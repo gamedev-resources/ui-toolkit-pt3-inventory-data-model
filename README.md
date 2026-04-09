@@ -19,6 +19,7 @@ Check out the other parts:
 ## What's Included
 
 - [`starter-project/`](starter-project/) -  The starter project to follow along with the tutorial.
+- [`final-project/`](final-project/) - The completed project at the end of the tutorial.
 
 ## Resources
 
