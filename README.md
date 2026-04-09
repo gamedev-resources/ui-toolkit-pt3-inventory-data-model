@@ -15,6 +15,10 @@ Check out the other parts:
 | 1 | Reusable Window System | [ui-toolkit-pt1-reusable-window-system](https://github.com/gamedev-resources/ui-toolkit-pt1-reusable-window-system) |
 | 2 | Design the Inventory UI | [ui-toolkit-pt2-inventory-design](https://github.com/gamedev-resources/ui-toolkit-pt2-inventory-design) |
 | **3** | **Create the Inventory Data Model** | *You are here* |
+| 4 | Drag Items Between Inventory Slots | Coming Soon |
+| 5 | Design the Equipment Panel | Coming Soon |
+| 6 | Render 3D Character Model Preview | Coming Soon |
+| 7 | Bind Player Data to the Equipment Panel | Coming Soon |
 
 ## What's Included
 
