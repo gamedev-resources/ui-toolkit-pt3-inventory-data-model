@@ -2,6 +2,8 @@
 
 # Part 3: Create the Inventory Data Model
 
+<a href="https://www.youtube.com/watch?v=_mzGFTHAWAQ"><img src="image/ui-pt-3.png" alt="Video thumbnail" width="600"></a>
+
 In this tutorial you'll create a ScriptableObject-driven item data model, build an InventorySlot custom control that clones the Part 2 UXML template at runtime, and write an InventoryPresenter that loads content into the GameWindow system and generates inventory slots at runtime. By the end, the static layout from Part 2 becomes a fully populated, data-driven inventory grid.
 
 ## Course
